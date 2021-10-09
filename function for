@@ -1,0 +1,16 @@
+#a simple exaple in python using the function: for
+
+test1 = 'abcdefg'
+cnt = 1
+for i in test1:
+    print(str(cnt)+ i)
+    cnt += 1
+
+#this will print 
+#1a
+#2b
+#3c
+#4d
+#5e
+#6f
+#7g
