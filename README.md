@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SakPetios
-- 👀 I’m interested in game deving and python
-- 🌱 I’m currently learning c/c++ and python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me @code_boi.py
+- 👀 I’m interested in backend
+- 🌱 I’m currently learning Rust and python
+
+
 
 <!---
 SakPetios/SakPetios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
